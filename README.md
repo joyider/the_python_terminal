@@ -1,4 +1,4 @@
-*The Python Terminal*
+# The Python Terminal #
 
 A very basic client/server Skelton for python. Please feel free to add
 your own logic to it.
